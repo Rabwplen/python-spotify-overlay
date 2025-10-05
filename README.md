@@ -1,2 +1,1 @@
-# python-spotify-overlay
-Spotify Overlay in Python
+## Python Spotify Overlay
